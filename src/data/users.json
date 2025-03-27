@@ -2,19 +2,23 @@
   "data": [
     {
       "nomor": "6285655548594",
-      "userName": "ryzenofc"
+      "userName": "ryzenofc",
+      "admin": true
     },
     {
       "nomor": "6283856877894",
-      "userName": "arima"
+      "userName": "arima",
+      "admin": true
     },
     {
       "nomor": "79789273031",
-      "userName": "rizzbot"
+      "userName": "rizzbot",
+      "admin": false
     },
     {
       "nomor": "62882008163786",
-      "userName": "vermillion"
+      "userName": "vermillion",
+      "admin": false
     }
   ]
 }
