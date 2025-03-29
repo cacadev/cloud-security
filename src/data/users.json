@@ -13,11 +13,16 @@
     {
       "nomor": "79789273031",
       "userName": "rizzbot",
-      "admin": false
+      "admin": true
     },
     {
       "nomor": "62882008163786",
       "userName": "vermillion",
+      "admin": false
+    },
+    {
+      "nomor": "6285117150562",
+      "userName": "nopal",
       "admin": false
     }
   ]
