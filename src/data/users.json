@@ -37,7 +37,13 @@
     },
     {
       "nomor": "6282174351911",
-      "userName": "axarick"
+      "userName": "axarick",
+      "admin": false
+    },
+    {
+      "nomor": "639514308520",
+      "userName": "mira",
+      "admin": false
     }
   ]
 }
