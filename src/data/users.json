@@ -89,6 +89,11 @@
       "nomor": "6283861202541",
       "userName": "danz90",
       "admin": false
+    },
+    {
+      "nomor": "6281234567890",
+      "userName": "suki",
+      "admin": true
     }
   ]
 }
