@@ -99,6 +99,11 @@
       "nomor": "6283856877895",
       "userName": "test",
       "admin": false
+    },
+    {
+      "nomor": "6283865605666",
+      "userName": "Rizzbot2",
+      "admin": true
     }
   ]
 }
